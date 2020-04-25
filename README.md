@@ -16,5 +16,8 @@ Spring 2020
 ### FRET
 FRET experiment data anaylsis(jupyter notebook)
 
-## Quantum Physics 1
+## Mechanics 1
 Spring 2020
+
+### HW 2
+Contains source codes for the HW 2 in Mechanics 1 course!
