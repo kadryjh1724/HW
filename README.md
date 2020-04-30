@@ -10,6 +10,9 @@ Expt. 1(Newton's apple) data analysis(jupyter notebook)
 ### MOI(Moment of Inertia)
 Expt. 2(MOI) data analysis(but data analysis became shitpost...)
 
+### Worry of Sisyphus
+Expt. 3(Worry of Sisyphus) data analysis(jupyter notebook)
+
 ## Physical Analytical Chemistry Lab
 Spring 2020
 
