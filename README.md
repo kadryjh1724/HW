@@ -19,6 +19,9 @@ Spring 2020
 ### FRET
 FRET experiment data anaylsis(jupyter notebook)
 
+### Titration
+Titration experiment data analysis(jupyter notebook)
+
 ## Mechanics 1
 Spring 2020
 
