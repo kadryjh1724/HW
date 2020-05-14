@@ -14,7 +14,7 @@ Expt. 2(MOI) data analysis(but data analysis became shitpost...)
 Expt. 3(Worry of Sisyphus) data analysis(jupyter notebook)
 
 ### Mechanics of Billiard
-Expt. 4(Mechanics of Billiard) data analysis(jupyter notebook)
+Expt. 4(Mechanics of Billiard) data analysis?(jupyter notebook)
 
 ## Physical Analytical Chemistry Lab
 Spring 2020
